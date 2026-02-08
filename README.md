@@ -4,6 +4,10 @@ Well, just build this for fun 🎉 All the codes created by AI, yeah AI programm
 
 A bilingual (CN/EN) Kinsey Scale assessment tool with 50 questions, packaged as a standalone executable. 100% local run, no data upload—privacy first, fun second!
 
+## 📥 Download the Package (Important!)
+**Do NOT download files directly from the main branch** — the executable package is only available under the release tags (e.g., `v1.0.0`).  
+👉 Go to the [Releases/Tags page](https://github.com/Hagoromo-CN/Kinsey-Scale-Comprehensive-Dimension-Assessment-Tool/releases) of this repo, download the zip package corresponding to the latest tag (e.g., `v1.0.0`).
+
 ## 🌟 Core Features
 - 🌐 **Bilingual Support**: Switch freely between Chinese and English interfaces
 - 🚫 **100% Local Run**: All data runs locally only, no uploads—maximum privacy protection
@@ -17,7 +21,7 @@ A bilingual (CN/EN) Kinsey Scale assessment tool with 50 questions, packaged as 
 No Python environment or dependencies needed—everything is packaged in the zip file!
 
 ### Step 1: Unzip the package
-Download the compressed package from the release page, then unzip it to any folder on your computer.
+Download the compressed package from the release page (under the latest tag), then unzip it to any folder on your computer.
 
 ### Step 2: Run the app
 Double-click the `webui.exe` file in the unzipped folder (no need to install anything).
@@ -47,12 +51,17 @@ The Kinsey Scale (1948) is a tool to measure sexual orientation, ranging from 0 
 2. Do not use the results to make any medical/psychological decisions. For professional advice, consult a licensed psychologist/psychiatrist.
 3. The author (vibe programmer 😝) is not responsible for any consequences caused by the use of this tool.
 
+-----------------------------------------------------------------------------------------------------
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 金赛量表50题评估工具（双语版）
 纯粹做着玩 🎉 所有代码都是AI生成的，懂的都懂，主打一个AI程序员！
 
 基于 Python + Gradio 打包的金赛量表50题双语评估工具，100% 本地运行、无数据上传——隐私第一
+
+## 📥 下载安装包（重要！）
+**请勿直接从main分支下载文件** —— 可执行程序包仅在 Release 标签（Tag）下提供（如 `v1.0.0`）。  
+👉 请前往本仓库的 [Releases/标签页面](https://github.com/Hagoromo-CN/Kinsey-Scale-Comprehensive-Dimension-Assessment-Tool/releases)，下载最新标签（如 `v1.0.0`）对应的zip压缩包。
 
 ## 🌟 核心特点
 - 🌐 **双语支持**：中文/英文界面自由切换
@@ -67,7 +76,7 @@ The Kinsey Scale (1948) is a tool to measure sexual orientation, ranging from 0 
 无需安装Python、无需配置环境——压缩包内已包含所有运行所需文件！
 
 ### 步骤1：解压压缩包
-从仓库Release页面下载压缩包，将其解压到电脑任意文件夹。
+从仓库Release/Tag页面下载压缩包，将其解压到电脑任意文件夹。
 
 ### 步骤2：运行程序
 双击解压文件夹中的 `webui.exe` 文件（无需安装任何插件）。
@@ -96,8 +105,6 @@ The Kinsey Scale (1948) is a tool to measure sexual orientation, ranging from 0 
 1. 本工具仅用于**娱乐和参考**，非专业心理评估工具；
 2. 请勿依据本工具结果做出任何医疗/心理相关决策，专业建议请咨询持证心理咨询师/精神科医生；
 3. 作者不对使用本工具产生的任何后果负责。
-
-
 
 
 
