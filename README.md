@@ -1,4 +1,4 @@
-# Kinsey-Scale-Comprehensive-Dimension-Assessment-Tool
+# Kinsey-Scale-Comprehensive-Dimension-Assessment-Tool or 金赛量表50题多维度评估工具
 # Kinsey Scale 50Q (Bilingual)
 Well, just build this for fun 🎉 All the codes created by AI, yeah AI programmer u know.
 
